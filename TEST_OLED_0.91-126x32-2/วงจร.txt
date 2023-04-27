@@ -1,0 +1,4 @@
+SDA -> D2
+SCL/SCK -> D1
+VCC -> 3v
+GND -> GND
